@@ -3,3 +3,4 @@ Team Leader: <채지호>
 Team Leader: <20231074>
 Project 03 version1 completed
 “2nd Team Member: <김태준>”
+“2nd Team Member: <20231049>”
